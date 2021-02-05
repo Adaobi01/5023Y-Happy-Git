@@ -65,6 +65,7 @@ Baby Yoda fun facts:
 - Also known as “The Child”
 - Likes unfertilised frog eggs & control knobs
 - Strong with the force
+- Cute
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
